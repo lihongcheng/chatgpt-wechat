@@ -71,9 +71,10 @@ var Config = map[string]interface{}{
   ![image](https://github.com/lihongcheng/aichat/assets/20829680/cbf0fe15-3441-4eea-8dfe-55df6632247b)
 
 #### 支持会话上下文记忆功能
-<img width="900" height="450" src="https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/b0837fa1-4fdc-450d-8523-16e17666a36c"/>
+
   ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/b0837fa1-4fdc-450d-8523-16e17666a36c)
 
 ## 随心打赏
 ### 如果你想支持我的项目，可以通过支付宝或微信进行打赏。感谢！
+![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/1eaf1fa8-eb50-46ca-abd2-c12c27f86ee9)
 
