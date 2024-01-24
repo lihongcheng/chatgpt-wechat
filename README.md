@@ -17,16 +17,16 @@
 ## 快速开始
 
 ### 1. 克隆仓库
-```bash
+```shell
 git clone https://github.com/lihongcheng/chatgpt-wechat.git
 cd chatgpt-wechat
 ```
 ### 2. 编译程序
-```bash
+```shell
 go build -o chatgpt-wechat
 ```
 ### 3. 运行程序
-```bash
+```shell
 ./chatgpt-wechat your-openai-key（必传） 角色设定（可选参数）
 ```
 
@@ -48,7 +48,7 @@ var Config = map[string]interface{}{
 ## 使用示例
 
 ### 1.启动程序
-```bash
+```shell
 ./chatgpt-wechat your-openai-key（必传参数） 角色设定（可选参数）
 ```
 ### 2.扫描微信二维码登录
