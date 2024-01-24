@@ -63,6 +63,7 @@ var Config = map[string]interface{}{
  ![image](https://github.com/lihongcheng/aichat/assets/20829680/fc874ce5-eedc-4096-9ff8-56e72e75ff0a)
 
 - 支持AI绘图
+  
   ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/9fe8816f-2465-4791-a1a7-76cb769c31d2)
 
 - 支持微信语音自动识别
@@ -71,5 +72,6 @@ var Config = map[string]interface{}{
 
 - 支持会话上下文记忆功能
   
-  ![image](https://github.com/lihongcheng/aichat/assets/20829680/0ed696ea-92ff-452b-adac-baca136a3bf5)
+  ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/efd70e94-86b9-4c05-91b4-f933eb5a07ec)
+
 
