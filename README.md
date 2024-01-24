@@ -63,8 +63,7 @@ var Config = map[string]interface{}{
  ![image](https://github.com/lihongcheng/aichat/assets/20829680/fc874ce5-eedc-4096-9ff8-56e72e75ff0a)
 
 - 支持AI绘图
-
-  ![image](https://github.com/lihongcheng/aichat/assets/20829680/8c63b714-9e29-4a35-b0aa-f8c0bedd0c74)
+  ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/9fe8816f-2465-4791-a1a7-76cb769c31d2)
 
 - 支持微信语音自动识别
 
