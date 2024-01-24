@@ -76,6 +76,6 @@ var Config = map[string]interface{}{
   ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/b0837fa1-4fdc-450d-8523-16e17666a36c)
 
 ## 随心打赏
-### 如果你想支持我的项目，可以通过支付宝或微信进行打赏。感谢！
+### 如果你想支持我的项目，可以通过微信进行打赏。感谢！
 ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/1eaf1fa8-eb50-46ca-abd2-c12c27f86ee9)
 
