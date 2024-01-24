@@ -54,24 +54,25 @@ var Config = map[string]interface{}{
 
 ### 3. 与机器人聊天
 
-- 支持微信群聊@回复
+#### 支持微信群聊@回复
   
 ![image](https://github.com/lihongcheng/aichat/assets/20829680/f6acd473-4a6f-4171-8688-4bf8039a3d9d)
 
-- 支持微信私聊
+#### 支持微信私聊
 
  ![image](https://github.com/lihongcheng/aichat/assets/20829680/fc874ce5-eedc-4096-9ff8-56e72e75ff0a)
 
-- 支持AI绘图
+#### 支持AI绘图
   
   ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/9fe8816f-2465-4791-a1a7-76cb769c31d2)
 
-- 支持微信语音自动识别
+#### 支持微信语音自动识别
 
   ![image](https://github.com/lihongcheng/aichat/assets/20829680/cbf0fe15-3441-4eea-8dfe-55df6632247b)
 
-- 支持会话上下文记忆功能
+#### 支持会话上下文记忆功能
   
-  ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/efd70e94-86b9-4c05-91b4-f933eb5a07ec)
+  ![image](https://github.com/lihongcheng/chatgpt-wechat/assets/20829680/b0837fa1-4fdc-450d-8523-16e17666a36c)
+
 
 
